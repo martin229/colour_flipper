@@ -1,1 +1,1 @@
-Colour flipper
+Colour Flipper
